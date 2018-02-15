@@ -3,7 +3,7 @@
 			Note, that arguments, wich fall into the app begins from 2-index,
 			because first is a node variable and second is an execution file.
 			This array of numbers fall into S-function as its single argument.
-			If you are lazy like me and just want to test how does it work, you can
+			If you are lazy like me and just want to quickly test how does it work, you can
 			skip this step and don't pass arguments.
 			S-function will be called with default value.
 			All you need to just tap in the bash thomething like :
